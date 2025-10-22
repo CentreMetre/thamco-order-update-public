@@ -5,7 +5,7 @@
 This project is part of the ThAmCo Order subsystem.
 It fulfils its job as a microservice for updating order data.
 
-> Originally developed as part of the Cloud Computing DevOps module in the Computer Science programme.
+> ***Note:*** This is purely a backend API microservice, no pages are served.
 
 # Controller:
 ## `/orders/update/fulfil/{order_id}` - Post

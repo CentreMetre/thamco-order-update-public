@@ -1,5 +1,11 @@
+# ThAmCo Update Retrieval Microservice
+
+> Originally developed as part of the Cloud Computing DevOps module in the Computer Science programme.
+
 This project is part of the ThAmCo Order subsystem.
-This project is a microservice for the job of creating orders.
+It fulfils its job as a microservice for updating order data.
+
+> Originally developed as part of the Cloud Computing DevOps module in the Computer Science programme.
 
 # Controller:
 ## `/orders/update/fulfil/{order_id}` - Post
